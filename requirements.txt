@@ -10,3 +10,4 @@ imbalanced-learn
 torch
 torchvision
 torchaudio
+optuna

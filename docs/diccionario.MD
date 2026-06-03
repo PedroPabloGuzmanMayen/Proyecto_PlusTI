@@ -242,7 +242,6 @@ distance_from_home_km
     Feature común en detección de fraude.
 
 
-
 is_weekend
     Booleano. True si la transacción ocurrió en sábado o domingo.
 
